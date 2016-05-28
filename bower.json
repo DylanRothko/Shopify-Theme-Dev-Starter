@@ -1,0 +1,23 @@
+{
+  "name": "shopify-theme-seed",
+  "homepage": "https://github.com/DylanRothko/Shopify-Theme-Dev-Starter",
+  "authors": [
+    "Dylan Gaines <dylan@dylangaines.com>"
+  ],
+  "description": "A base boilerplate for developing shopify themes",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "normalize-scss": "^3.0.3",
+    "bourbon": "^4.2.7",
+    "neat": "^1.7.4"
+  }
+}
